@@ -10,3 +10,8 @@ value do you think it offers?
 - The staging area contains only the files that are deliberately added to it while the 
   working directory contains all the files that currently make up the project. It thus 
   provides the ability to control which files are contained in a particular commit.
+  
+How can you use the staging area to make sure you have one commit per logical change?
+
+ - Use git diff to view the changes that have been made since the last commit and commit
+   when the changes seem to add up to a logical change.
