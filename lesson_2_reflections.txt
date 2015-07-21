@@ -34,4 +34,10 @@ diagram the way we do?
 - A new single branch containing all the changes since the two branches were created 
   from their common parent commit. To make it clear the two branches have become one.
 
+What are the pros and cons of Git's automatic merging vs always doing merges manually?
+
+- Automatic merging has the advantage that it is fast and requires minimal human input
+  when there are no ambiguities. Always merging manually would mean a lot more time 
+  having to be invested in every case.
+
 
