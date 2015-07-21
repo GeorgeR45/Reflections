@@ -27,3 +27,11 @@ How do the diagrams help you visualize the branch structure?
 
 - By showing all the commits on each branch and where new branches begin the diagram 
   creates a map of the project history which makes it easier to navigate that history.
+
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+- A new single branch containing all the changes since the two branches were created 
+  from their common parent commit. To make it clear the two branches have become one.
+
+
