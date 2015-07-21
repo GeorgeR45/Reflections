@@ -13,5 +13,13 @@ value do you think it offers?
   
 How can you use the staging area to make sure you have one commit per logical change?
 
- - Use git diff to view the changes that have been made since the last commit and commit
-   when the changes seem to add up to a logical change.
+- Use git diff to view the changes that have been made since the last commit and commit
+  when the changes seem to add up to a logical change.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+- When a new version of a project is created, perhaps with different features and their is
+  a need to keep the old version as well. Here a branch could be created enabling both 
+  versions of the project to be kept and accessed as required.
+
