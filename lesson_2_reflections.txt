@@ -23,3 +23,7 @@ How would branches help?
   a need to keep the old version as well. Here a branch could be created enabling both 
   versions of the project to be kept and accessed as required.
 
+How do the diagrams help you visualize the branch structure?
+
+- By showing all the commits on each branch and where new branches begin the diagram 
+  creates a map of the project history which makes it easier to navigate that history.
