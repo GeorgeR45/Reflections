@@ -26,3 +26,15 @@ What is the benefit of having a copy of the last known state of the remote store
   was last updated from the remote repository so that any conflicts that arise when the 
   local and remote branches are merged can be automatically detected and appropriate action
   taken by the user to resolve the conflicts.
+
+How would you collaborate without using Git or Github? What would be easier and what 
+would be harder?
+
+- Without using Git and Github, collaborators would have to keep multiple complete copies
+  of each version or stage of development of a project and would have to post the latest entire 
+  copy of thier version of the project and would have to read the complete version of the 
+  project from each collaborator before deciding how to merge them. Collaboration in this 
+  way would be easier because users would not have to devote time to learing how to use 
+  Git and Github, but would be harder and more time consuming in the long run because 
+  users would have to spend more time on the collaboration phase of each project meaning 
+  less time spent on the actual project work.
