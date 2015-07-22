@@ -38,3 +38,12 @@ would be harder?
   Git and Github, but would be harder and more time consuming in the long run because 
   users would have to spend more time on the collaboration phase of each project meaning 
   less time spent on the actual project work.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+- A separate branch might be preferred when I want to add an experimental new feature 
+  to a shared project which might not necessarily end up in the final project. The 
+  separate branch approach allows such experiments to be tried and discarded as appropriate
+  without affecting the main master branch. Making such changes in the master branch would 
+  simplify the process of sharing such changes via Github.
