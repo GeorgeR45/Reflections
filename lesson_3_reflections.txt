@@ -9,3 +9,13 @@ up to date with your remote repository?
 
 - To retain control over which changes to the remote repository are added to the local 
   repository and when they are added. 
+
+Describe the differences between forks, clones and branches. When would you use one instead
+of another?
+
+- A branch is a different version of a project that exists within a single repository, 
+  perhaps in a different language or with an additional feature. A clone is a new copy of
+  an existing repository. The existing repository that is cloned can be on the local 
+  machine or on a remote host such as Github. A fork is a copy of an existing repository 
+  on Github that allow a user to make changes to their own copy of the repository without 
+  affecting the original repository.  
