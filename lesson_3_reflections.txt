@@ -19,3 +19,10 @@ of another?
   machine or on a remote host such as Github. A fork is a copy of an existing repository 
   on Github that allow a user to make changes to their own copy of the repository without 
   affecting the original repository.  
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- It is possible for git to know if local changes have been made since the local repository
+  was last updated from the remote repository so that any conflicts that arise when the 
+  local and remote branches are merged can be automatically detected and appropriate action
+  taken by the user to resolve the conflicts.
